@@ -33,5 +33,10 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=vasanthabalanm)](https://github.com/ryo-ma/github-profile-trophy)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanthabalan-m)
