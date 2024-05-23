@@ -28,6 +28,8 @@
 
 ### Stats
 ![BalanStats](https://github-readme-stats.vercel.app/api?username=vasanthabalanm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![BalanStats's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vasanthabalanm&theme=vue-dark&hide_border=true)
+![BalanStats's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthabalanm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
